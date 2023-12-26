@@ -1,0 +1,32 @@
+usuarios
+@pepe
+@mazinger
+@juanc
+@xoxojaime
+@tuqui33
+@mauricio
+@melissa
+@andrea
+@luis
+@mariale
+@camila
+relaciones
+@pepe, @mazinger
+@pepe, @juanc
+@pepe, @mauricio
+@tuqui33, @mauricio
+@xoxojaime, @juanc
+@juanc, @mauricio
+@mazinger, @juanc
+@mauricio, @melissa
+@melissa, @mauricio
+@mazinger, @tuqui33
+@andrea, @pepe
+@andrea, @juanc
+@juanc, @andrea
+@luis, @pepe
+@luis, @xoxojaime
+@juanc, @luis
+@mauricio, @luis
+@mauricio, @mariale
+@pepe, @camila
